@@ -1,0 +1,11 @@
+.settings/
+target/
+.project
+.classpath
+*~
+test-output/
+.idea/
+*.iml
+/build
+/target
+/sql_script.sql
